@@ -13,8 +13,6 @@
 
 ## I want to learn:
 
-<img align="left" title="Rails" alt="Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" />
-
 <img align="left" title="Linux" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 
 <br />
@@ -67,7 +65,6 @@
 <a href="https://linkedin.com/in/gabriel martorelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel martorelli" height="30" width="40" /></a>
 <a href="https://instagram.com/martorelli_gabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@martorelli_gabriel" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/eo marto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eo marto" height="30" width="40" /></a>
-<a href="https://discord.gg/! Gabriel Calixto#0666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="! Gabriel Calixto#0666" height="30" width="40" /></a>
 <a href="mailto:martorelli_biel@outlook.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Email-%230077B5.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 </p>
 
