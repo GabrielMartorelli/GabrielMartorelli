@@ -16,9 +16,7 @@
 <img align="left" title="Linux" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
   
 <img align="left" title="Docker" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />    
-  
-<img align="left" title="Jest" alt="Jest" height="30" width="40" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />   
-  
+ 
 <br />
 <br />
 
@@ -43,13 +41,9 @@
 <img align="left" title="ReactNative" alt="ReactNative" height="30" width="40" src="https://reactnative.dev/img/header_logo.svg" />
 
 <img align="left" title="Mongodb" alt="Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-
-<img align="left" title="MySql" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
   
 <img align="left" title="Express" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />  
   
-<img align="left" title="Puppeteer" alt="Puppeteer" height="30" width="40" src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" />   
-
 <br />
 <br />
 
