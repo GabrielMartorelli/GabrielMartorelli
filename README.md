@@ -2,21 +2,21 @@
 
 <h1> Welcome!! </h1>
 
-<p> I'm Martorelli or you can call me Gabriel Martorelli, I'm a JavaScript developer. Always improving my knowledge .. <img src="https://acegif.com/wp-content/gif/brazilian-flag-14.gif" width="13" /> <b>Brazil, São Paulo</b>.
+<p> I'm Martorelli or you can call me Gabriel Martorelli, I'm a Junior developer. Always improving my knowledge .. <img src="https://acegif.com/wp-content/gif/brazilian-flag-14.gif" width="13" /> <b>Brazil, São Paulo</b>.
 <p>
 
 ## About me:
 
 - 😈 I've been in the programming world since 2019/2020.
-- 😎 Goals: Becoming a FullStack Programmer on the JavaScript Trail.
-- 🤬 I'm currently finishing college and doing personal projects to study and train JavaScript-derived languages, as well as improving my profile on GitHub.
+- 😎 Goals: Becoming a FullStack Programmer.
+- 🤬 I'm currently doing personal projects to study and train, as well as improving my profile on GitHub.
 
 ## I want to learn:
 
 <img align="left" title="Linux" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+
+<img align="left" title="Bash" alt="Bash" height="30" width="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" /> 
   
-<img align="left" title="Docker" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />    
- 
 <br />
 <br />
 
@@ -42,7 +42,9 @@
 
 <img align="left" title="Mongodb" alt="Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
   
-<img align="left" title="Express" alt="Express" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/640px-Python_logo_01.svg.png" />  
+<img align="left" title="Express" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" /> 
+  
+<img align="left" title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   
 <br />
 <br />
