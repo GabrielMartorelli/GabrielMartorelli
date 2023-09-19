@@ -2,18 +2,15 @@
 
 <h1> Welcome!! </h1>
 
-<p> I'm Martorelli or you can call me Gabriel Martorelli, I'm a Junior developer. Always improving my knowledge .. <img src="https://acegif.com/wp-content/gif/brazilian-flag-14.gif" width="13" /> <b>Brazil, São Paulo</b>.
+<p> I'm Martorelli or you can call me Gabriel Martorelli, I'm a Junior pentester. Always improving my knowledge .. <img src="https://acegif.com/wp-content/gif/brazilian-flag-14.gif" width="13" /> <b>Brazil, São Paulo</b>.
 <p>
 
 ## About me:
 
-- 😈 I've been in the programming world since 2019/2020.
-- 😎 Goals: Becoming a FullStack Programmer.
-- 🤬 I'm currently doing personal projects to study and train, as well as improving my profile on GitHub.
+- 😈 I've been in the cybersecurity world since 2019/2020.
+- 😎 Goals: Becomi- 🤬 I'm currently doing ctf's and some scripts for pentest to study and train.
 
 ## I want to learn:
-
-<img align="left" title="Linux" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 
 <img align="left" title="Bash" alt="Bash" height="30" width="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" /> 
   
@@ -22,28 +19,10 @@
 
 ## I am learning:
 
+<img align="left" title="Linux" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+
 <img align="left" title="JavaScript" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-
-<img align="left" title="TypeScript" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-
-<img align="left" title="React" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-
-<img align="left" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-
-<img align="left" title="Css" alt="Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
-
-<img align="left" title="Html" alt="Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-
-<img align="left" title="Sass" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
-
-<img align="left" title="Node" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
-
-<img align="left" title="ReactNative" alt="ReactNative" height="30" width="40" src="https://reactnative.dev/img/header_logo.svg" />
-
-<img align="left" title="Mongodb" alt="Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-  
-<img align="left" title="Express" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" /> 
-  
+ 
 <img align="left" title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   
 <br />
@@ -52,8 +31,6 @@
 ## I code with:
 
 <img align="left" title="Visual Studio Code" alt="Visual Studio Code" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" title="Figma" alt="Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 
 <img align="left" title="Git" alt="Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 
