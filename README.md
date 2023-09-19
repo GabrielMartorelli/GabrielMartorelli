@@ -8,7 +8,8 @@
 ## About me:
 
 - 😈 I've been in the cybersecurity world since 2019/2020.
-- 😎 Goals: Becomi- 🤬 I'm currently doing ctf's and some scripts for pentest to study and train.
+- 😎 Goals: Become a Senior Redteam.
+- 🤬 I'm currently doing ctf's to train my knowledge and some scripts for pentest to study.
 
 ## I want to learn:
 
