@@ -46,4 +46,6 @@
 
 <br />
 
+<script src="https://tryhackme.com/badge/103891"></script>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielmartorelli&show_icons=true&theme=dark&locale=en&layout=compact" alt="gabrielmartorelli" /></p>
