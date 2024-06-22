@@ -2,7 +2,7 @@
 
 <h1> Welcome!! </h1>
 
-<p> I'm Martorelli or you can call me Gabriel Martorelli, I'm a Junior pentester. Always improving my knowledge .. <img src="https://acegif.com/wp-content/gif/brazilian-flag-14.gif" width="13" /> <b>Brazil, São Paulo</b>.
+<p> I'm Martorelli or you can call me Gabriel Martorelli, I'm a pentester. Always improving my knowledge .. <img src="https://acegif.com/wp-content/gif/brazilian-flag-14.gif" width="13" /> <b>Brazil, São Paulo</b>.
 <p>
 
 ## About me:
@@ -46,6 +46,6 @@
 
 <br />
 
-<script src="https://tryhackme.com/badge/103891"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Martorelli.png" alt="TryHackMe">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielmartorelli&show_icons=true&theme=dark&locale=en&layout=compact" alt="gabrielmartorelli" /></p>
